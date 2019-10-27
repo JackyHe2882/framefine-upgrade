@@ -1,1 +1,6 @@
-{"framefine":"画品","androidVersion":"1.0"}
+{
+  "versionCode": 1,
+  "updateTitle": "发现新版本",
+  "updateMsg": "1.修复截图问题 \n2.优化部分功能，增加基准线",
+  "downloadUrl": "https://raw.githubusercontent.com/hpu-spring87/ebooks/master/update.json"
+}
