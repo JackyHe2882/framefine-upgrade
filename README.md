@@ -68,47 +68,46 @@
                 </ol>
                 <h3>五、第三方SDK的使用</h3>
                 <div
-                     <p>有关我们的APP中接入的第三方SDK收集和使用用户信息的具体情况。我们的APP中接入的SDK可能根据业务情况不时发生变动，我们将据此及时更新前述列表，如有更新请以届时的最新版本为准。《加画框》App接入的第三方SDK收集和使用用户信息的具体情况：</p>
-                <p>腾讯Bugly</p>
+                  有关我们的APP中接入的第三方SDK收集和使用用户信息的具体情况。我们的APP中接入的SDK可能根据业务情况不时发生变动，我们将据此及时更新前述列表，如有更新请以届时的最新版本为准。《加画框》App接入的第三方SDK收集和使用用户信息的具体情况：
 
-                <p>使用目的：用于异常问题分析，改善产品质量，以提升用户体验</p>
+腾讯Bugly
 
-                <p>数据类型：联网信息、APP闪退情况、日志信息（包括：第三方开发者自定义日志、Logcat日志以及APP崩溃堆栈信息）、设备ID（包括：android ID以及IDFA、iccid）、系统名称、系统版本及国家码</p>
+使用目的：用于异常问题分析，改善产品质量，以提升用户体验
 
-                <p>官网链接：<a href="https://privacy.qq.com/document/priview/fbd2c3f898df4c1c869925dd49d57827">https://privacy.qq.com/document/priview/fbd2c3f898df4c1c869925dd49d57827</a></p>
+数据类型：联网信息、APP闪退情况、日志信息（包括：第三方开发者自定义日志、Logcat日志以及APP崩溃堆栈信息）、设备ID（包括：android ID以及IDFA、iccid）、系统名称、系统版本及国家码
 
-                <p>&nbsp;</p>
+官网链接：https://privacy.qq.com/document/priview/fbd2c3f898df4c1c869925dd49d57827
 
-                <p>友盟SDK</p>
+ 
 
-                <p>使用目的：用于数据分析</p>
+友盟SDK
 
-                <p>数据类型：联网信息、Mac地址、唯一设备识别码（IMEI/android ID/IDFA/OPENUDID/GUID、bssid、SIM&nbsp;卡&nbsp;IMSI&nbsp;信息）、IP地址、位置信息</p>
+使用目的：用于数据分析
 
-                <p>官网链接：<a href="https://www.umeng.com/page/policy">https://www.umeng.com/page/policy</a></p>
+数据类型：联网信息、Mac地址、唯一设备识别码（IMEI/android ID/IDFA/OPENUDID/GUID、bssid、SIM 卡 IMSI 信息）、IP地址、位置信息
 
-                <p>&nbsp;</p>
+官网链接：https://www.umeng.com/page/policy
 
-                <p>优量汇（腾讯广告）SDK</p>
+ 
 
-                <p>使用目的：用于App内发布广告</p>
+优量汇（腾讯广告）SDK
 
-                <p>数据类型：联网信息、Mac地址、设备信息（如IMEI/IMSI、SIM卡序列号/Mac地址、android ID）、粗略位置信息</p>
+使用目的：用于App内发布广告
 
-                <p>官网链接：<a href="https://privacy.qq.com/">https://privacy.qq.com/</a></p>
+数据类型：联网信息、Mac地址、设备信息（如IMEI/IMSI、SIM卡序列号/Mac地址、android ID）、粗略位置信息
 
-                <p>&nbsp;</p>
-                <p>六、设备权限调用</p>
-                <ol>
-                    <li>相机/相册权限：基于用户的主动操作，进行图片的装裱
-                    </li>
-                    <li>通知权限：向用户发送通知
-                    </li>
-                    <li>存储权限：缓存应用信息
-                    </li>
-                </ol>
-                <p>七、与我们联系</p>
-                <p>如您有任何与个人信息保护或隐私保护相关的问题、意见或建议，您可以发送邮件至邮箱：cherish_wei_he@163.com，我们将尽快审核所涉问题，并在验证你的用户身份后的5天内予以回复</p>
+官网链接：https://privacy.qq.com/
+
+ 
+
+六、设备权限调用
+
+相机/相册权限：基于用户的主动操作，进行图片的装裱
+通知权限：向用户发送通知
+存储权限：缓存应用信息
+七、与我们联系
+
+如您有任何与个人信息保护或隐私保护相关的问题、意见或建议，您可以发送邮件至邮箱：cherish_wei_he@163.com，我们将尽快审核所涉问题，并在验证你的用户身份后的5天内予以回复
                      </div>
             </BODY>
 </HTML>
